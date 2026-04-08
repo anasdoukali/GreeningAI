@@ -37,19 +37,7 @@ Workflow:
 	3.	Inference & Automation
 	•	Process new images through trained models.
 	•	Generate insights for internal decision-making (e.g., monitoring plant health).
-
-## Repository Structure
-. File / Folder                       Description
-
-README.md                           Project description and documentation
-
-config.py                           Configuration file for model parameters (safe to share)
-
-data_generator.ipynb                Notebook for dataset preprocessing & augmentation
-
-fine_tuning.ipynb                   Notebook for training YOLO models on Colab
-
-.gitignore                           Standard Git ignore file
+	
 
 ✅ All proprietary model weights and sensitive datasets are kept private.
 
@@ -64,7 +52,7 @@ fine_tuning.ipynb                   Notebook for training YOLO models on Colab
 
 
 ## Impact
-  •	Solutions are currently used internally by a government ministry for agricultural optimization.
+    •	Solutions are currently used internally by a government ministry for agricultural optimization.
 	•	Demonstrates practical real-world AI deployment.
 	•	Highlights expertise in computer vision, AI automation, and scalable AI pipelines.
 
