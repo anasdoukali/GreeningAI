@@ -9,7 +9,6 @@ When the fine-tuning dataset gets large, one certainly needs to leverage GPUs to
 
 To fine-tune YOLO on colab, use click on the following link and follow the instructions. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rv1XKhM0GeDB65pu0-mMqiEgvApWUjVy?usp=sharing)
 
 
 ## Description of the repository
