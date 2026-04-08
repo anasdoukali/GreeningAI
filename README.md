@@ -4,7 +4,7 @@ GreeningAI is a project within NextGenLabs focused on tackling fundamental chall
 
 
 ## Project Overview
-.
+
 	•	Objective: Build AI systems that detect, analyze, and optimize agricultural processes.
 	•	Domain: Agriculture, Computer Vision, Automation
 	•	Tech Stack:
@@ -15,19 +15,20 @@ GreeningAI is a project within NextGenLabs focused on tackling fundamental chall
 
 
 ## Key Features
-.	1.	Fine-tuning YOLO Models
-	  •	Supports large-scale dataset training for object detection tasks.
-	  •	Uses Google Colab for GPU acceleration.
-  	•	Modular pipelines for easy experimentation and model updates.
+	1.	Fine-tuning YOLO Models
+		  •	Supports large-scale dataset training for object detection tasks.
+		  •	Uses Google Colab for GPU acceleration.
+ 	 	  •	Modular pipelines for easy experimentation and model updates.
 	2.	Data Generation & Preprocessing
-  	•	Automated scripts for dataset augmentation and annotation.
-  	•	Prepares data for YOLO fine-tuning without exposing proprietary content.
+ 	 	  •	Automated scripts for dataset augmentation and annotation.
+		  •	Prepares data for YOLO fine-tuning without exposing proprietary content.
 	3.	Model Deployment (Internal)
-  	•	Models are used in real-world applications for monitoring and resource optimization.
-  	•	Includes automated inference pipelines for reliable predictions.
+	  	  •	Models are used in real-world applications for monitoring and resource optimization.
+	  	  •	Includes automated inference pipelines for reliable predictions.
 
 ## How It Works
-Workflow:
+Workflow
+
 	1.	Data Collection & Annotation
 	•	Gather images and annotate using Roboflow.
 	•	Augment data to increase diversity and model accuracy.
@@ -46,7 +47,7 @@ Workflow:
 <img width="927" height="467" alt="Screenshot 2026-04-08 at 22 43 02" src="https://github.com/user-attachments/assets/b31db43c-0ffb-46a3-9daf-5a6002195216" />
 <img width="950" height="496" alt="Screenshot 2026-04-08 at 22 42 12" src="https://github.com/user-attachments/assets/b9e67672-9395-4f9e-98cc-0dafd3ab97e0" />
 
-  •	Example detection results
+    •	Example detection results
 	•	Data augmentation outputs
 	•	System architecture diagram
 
@@ -58,7 +59,7 @@ Workflow:
 
 
 ## Skills & Technologies Highlighted
-  •	AI & Machine Learning: YOLO, PyTorch, Roboflow, Computer Vision
+    •	AI & Machine Learning: YOLO, PyTorch, Roboflow, Computer Vision
 	•	Automation: Data pipelines, inference automation
 	•	Python Development: Jupyter Notebooks, modular scripting
 	•	Cloud / GPU: Google Colab for accelerated model training
